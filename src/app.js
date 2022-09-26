@@ -11,13 +11,13 @@ let who = [
   " The Dishwasher",
   " My Cat"
 ];
-let action = ["ate", "broke", " lost", "swallowed"];
+let action = [" ate", " broke", " lost", " swallowed"];
 let what = [" my shoes", " my keys", " the broken vase", " my essay"];
 let when = [
-  "last night",
-  "when I was sleeping",
-  "during my shower",
-  "on the way here"
+  " last night",
+  " when I was sleeping",
+  " during my shower",
+  " on the way here"
 ];
 
 function pullexcuse(arr) {
