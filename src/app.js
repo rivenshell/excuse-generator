@@ -11,6 +11,7 @@ let who = [
   " The Dishwasher",
   " My Cat"
 ];
+// noun
 let action = [" ate", " broke", " lost", " swallowed"];
 let what = [" my shoes", " my keys", " the broken vase", " my essay"];
 let when = [
